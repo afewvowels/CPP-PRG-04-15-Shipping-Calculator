@@ -30,8 +30,7 @@ using namespace std;
 int main()
 {
     int intPackageDistance,
-    intPackageWeight,
-    intShippingMultiplier;
+    intPackageWeight;
     
     int const INT_SHIPPING_DIVISOR = 500;
     
